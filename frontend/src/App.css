@@ -1,0 +1,9 @@
+.App {
+}
+
+.container {
+  max-width: 90vw;
+  margin: 0 auto;
+  padding: 0 10%;
+  flex-grow: 1;
+}

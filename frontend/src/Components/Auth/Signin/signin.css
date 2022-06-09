@@ -1,0 +1,54 @@
+.formContainer {
+  border: 1px solid rgb(192, 188, 188);
+  border-radius: 5px;
+  width: 50%;
+  margin: 50px auto;
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.formGroup {
+  margin-top: 1rem;
+}
+
+.social {
+  margin: 1rem auto;
+}
+
+.formGroup > input {
+  border-radius: 2px;
+  border: none;
+  background-color: #f1ebeb;
+  border-color: #aaa9a9;
+  padding: 1rem;
+  font-size: 1rem;
+}
+
+.fieldTitle {
+  margin: 0.5rem 0;
+}
+
+.signinForm {
+  margin: 0 auto;
+}
+
+.authPageHeading {
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+.authMeta {
+  margin: 1rem auto;
+}
+
+.submitBtn {
+  background-color: #7952b3;
+  color: white;
+  border-radius: 5px;
+  border: none;
+  padding: 0.5rem 1rem;
+  width: 100%;
+  font-size: 1rem;
+  margin-top: 1rem;
+}

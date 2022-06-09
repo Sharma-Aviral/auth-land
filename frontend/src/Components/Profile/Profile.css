@@ -1,0 +1,26 @@
+.mainContainer {
+  width: 90vw;
+  display: flex;
+  flex-direction: column;
+  margin: 1rem auto;
+  text-align: center;
+}
+
+.imageContainer {
+  width: 1000px;
+  height: 400px;
+  margin: 1rem auto;
+}
+
+.imageContainer img {
+  height: 100%;
+  width: auto;
+}
+
+.mainHeading {
+  font-size: 2.5rem;
+}
+
+.verification {
+  margin: 1rem 0;
+}

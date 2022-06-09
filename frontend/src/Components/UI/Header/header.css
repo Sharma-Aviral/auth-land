@@ -1,0 +1,39 @@
+.header {
+  background-color: #7952b3;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  padding: 1.5rem 1.5rem;
+}
+
+.header .title {
+  font-size: 1.25rem;
+  font-weight: bold;
+}
+
+.userInfo {
+  font-size: 1.1rem;
+}
+
+.headerContainer {
+  padding: 1rem;
+}
+
+.loginControls a {
+  margin-left: 1.5rem;
+  color: black;
+  background-color: white;
+  text-decoration: none;
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+}
+
+.signoutButton {
+  margin-left: 1rem;
+  color: black;
+  background-color: white;
+  text-decoration: none;
+  border-radius: 2px;
+  padding: 0.5rem;
+  border: none;
+}
